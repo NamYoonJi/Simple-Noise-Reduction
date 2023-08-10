@@ -34,6 +34,10 @@ class AutoEncoder(nn.Module):
 ```
 
 ## Result 
+
+1. original   2. noisy   3. denoised
+
+   
 ![image](https://github.com/NamYoonJi/Simple-Noise-Reduction/assets/136441326/96ac0f25-16c5-483d-9007-935921943e3f)
 
 
