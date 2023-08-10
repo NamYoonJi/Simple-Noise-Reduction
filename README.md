@@ -5,7 +5,7 @@
 dataset: MNIST dataset
 
 
-Model
+## Model
 
 ```
 class AutoEncoder(nn.Module):
@@ -33,5 +33,7 @@ class AutoEncoder(nn.Module):
         return decoded
 ```
 
-Result 
+## Result 
+![image](https://github.com/NamYoonJi/Simple-Noise-Reduction/assets/136441326/96ac0f25-16c5-483d-9007-935921943e3f)
+
 
